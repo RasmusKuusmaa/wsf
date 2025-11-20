@@ -19,3 +19,11 @@ C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\wsf.pdb
 C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\wsf.genruntimeconfig.cache
 C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\ref\wsf.dll
 C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\wsf.csproj.AssemblyReference.cache
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\bin\Debug\net9.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.ServiceProcess.ServiceController.dll
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\wsf.sourcelink.json
+C:\Users\rasmus\Desktop\RandomProjects\wsf\wsf\obj\Debug\net9.0-windows\wsf.csproj.Up2Date

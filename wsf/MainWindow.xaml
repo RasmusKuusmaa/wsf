@@ -12,5 +12,8 @@
     </Window.DataContext>
     <StackPanel Margin="10">
         <CheckBox IsChecked="{Binding IsBingEnabled}" Content="Bing enabled" />
+        <Button Content="Fix Windows Search" 
+                    Click="Button_Click"/>
+        <TextBlock Text="{Binding StatusMessage}" FontSize="12" TextWrapping="Wrap"/>
     </StackPanel>
 </Window>
