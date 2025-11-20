@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:wsf"
         xmlns:vm="clr-namespace:wsf.ViewModels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="wsf" Height="450" Width="800">
     <Window.DataContext>
         <vm:MainViewModel/>
     </Window.DataContext>
