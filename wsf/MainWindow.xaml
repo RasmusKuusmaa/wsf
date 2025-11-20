@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:wsf"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <StackPanel Margin="10">
+        <CheckBox Content="Bing enabled" />
+    </StackPanel>
 </Window>
